@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Кремовый замок",
+    "description": "Нежный крем любого цвета на выбор, вафельная основа",
+    "price": 150,
+    "image": "https://img.freepik.com/free-photo/delicious-cupcakes-with-colorful-sprinkles_23-2151284573.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Шоколадный эклер",
+    "description": "Хрустящий профитроль с густым шоколадным кремом и глазурью",
+    "price": 180,
+    "image": "https://img.freepik.com/free-photo/chocolate-eclairs-pastry-dessert_23-2150886913.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Малиновый капкейк",
+    "description": "Бисквит с малиновым джемом и белым кремом, украшен ягодами",
+    "price": 200,
+    "image": "https://img.freepik.com/free-photo/delicious-cupcakes-with-colorful-sprinkles_23-2151284573.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Тирамису в стакане",
+    "description": "Классический тирамису с кофе, маскарпоне и какао",
+    "price": 220,
+    "image": "https://img.freepik.com/free-photo/tiramisu-dessert-glass_23-2150967232.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Лимонный тарт",
+    "description": "Хрустящее песочное тесто, лимонный курд и меренга",
+    "price": 240,
+    "image": "https://img.freepik.com/free-photo/fresh-fruit-tart-pastry-dessert_23-2151123804.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Чизкейк Нью-Йорк",
+    "description": "Плотный сырный десерт на основе печенья, с ванилью",
+    "price": 260,
+    "image": "https://img.freepik.com/free-photo/classic-cheesecake-with-red-berries_23-2151123802.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Макаруны (набор 6 шт.)",
+    "description": "Французские миндальные пирожные 6 вкусов: ваниль, шоколад, малина, лимон, кокос, фисташка",
+    "price": 320,
+    "image": "https://img.freepik.com/free-photo/colorful-macarons-assortment_23-2150967234.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Павлова",
+    "description": "Меренговая основа с взбитыми сливками и свежими ягодами",
+    "price": 280,
+    "image": "https://img.freepik.com/free-photo/meringue-dessert-with-berries_23-2150967236.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Капкейк с вишней",
+    "description": "Вишнёвый бисквит, сливочный крем и марципановая вишня",
+    "price": 190,
+    "image": "https://img.freepik.com/free-photo/delicious-cupcakes-with-colorful-sprinkles_23-2151284573.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Эклер с ванилью",
+    "description": "Классический эклер с ванильным кремом и сахарной посыпкой",
+    "price": 160,
+    "image": "https://img.freepik.com/free-photo/chocolate-eclairs-pastry-dessert_23-2150886913.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Рыжик (медовик)",
+    "description": "Многослойный медовый торт с сметанным кремом",
+    "price": 350,
+    "image": "https://img.freepik.com/free-photo/honey-cake-slice_23-2150967238.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Фруктовый тартлет",
+    "description": "Мини-тарт с заварным кремом и свежими фруктами",
+    "price": 170,
+    "image": "https://img.freepik.com/free-photo/fresh-fruit-tart-pastry-dessert_23-2151123804.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Шоколадный фондан",
+    "description": "Тёплый шоколадный пирог с текучей начинкой внутри",
+    "price": 210,
+    "image": "https://img.freepik.com/free-photo/warm-chocolate-lava-cake_23-2150967240.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Картошка (десерт)",
+    "description": "Печенье с какао, сгущёнкой и кокосовой стружкой",
+    "price": 140,
+    "image": "https://img.freepik.com/free-photo/chocolate-truffle-dessert_23-2150967242.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Ореховый рулет",
+    "description": "Бисквит с ореховой начинкой и шоколадной глазурью",
+    "price": 270,
+    "image": "https://img.freepik.com/free-photo/nut-roll-pastry_23-2150967244.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Сметанный пирог",
+    "description": "Нежный пирог с сметанным кремом и вишнёвой начинкой",
+    "price": 250,
+    "image": "https://img.freepik.com/free-photo/custard-cake-slice_23-2150967246.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Миндальный торт",
+    "description": "Безглютеновый миндальный торт с абрикосовым джемом",
+    "price": 290,
+    "image": "https://img.freepik.com/free-photo/almond-cake-slice_23-2150967248.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Крем-брюле",
+    "description": "Ванильный крем с хрустящей карамельной корочкой",
+    "price": 230,
+    "image": "https://img.freepik.com/free-photo/creme-brulee-dessert_23-2150967250.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Ягодный чизкейк",
+    "description": "Сырный десерт с ягодным соусом и мятой",
+    "price": 265,
+    "image": "https://img.freepik.com/free-photo/classic-cheesecake-with-red-berries_23-2151123802.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Печенье с шоколадом",
+    "description": "Домашнее песочное печенье с кусочками горького шоколада",
+    "price": 130,
+    "image": "https://img.freepik.com/free-photo/chocolate-chip-cookies_23-2150967252.jpg"
+  }
+]
